@@ -1,6 +1,6 @@
 # Trizon
 Bored software user who wants to code
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ActuallyTrizon&show_icons=true&theme=dark)
+![Stats](https://anya-github-stats.vercel.app/api/stats?username=ActuallyTrizon&show_icons=true&theme=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActuallyTrizon&layout=compact&theme=default)
+![Languages](https://github-languages-card.vercel.app/api/top-languages?username=ActuallyTrizon&layout=compact&theme=black)
