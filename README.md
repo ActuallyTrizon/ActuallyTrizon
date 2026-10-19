@@ -2,15 +2,15 @@
 
 I'm a self taught 14 year old mobile programmer focused on systems programming, low level tooling and software development.
 
-I primarily build libraries and scripts, still learning about C and Rust but I definitely will learn C++
+I primarily build libraries and scripts, still learning about **C** and **Rust** but I definitely will learn **C++**.
 
-Currently I'm working on a few personal projects.
+Currently I'm working on personal projects.
 
-- **Primary Languages:** C, Rust
-- **Secondary Languages:** Kotlin, Python, Java
-- **Currently Learning:** Systems design, memory management, and C development
-- **Current Projects:** Currently not viable
-- **Platforms:** Android I haven't had any reason to work outside it
+- **Primary Languages:** C, Rust.
+- **Secondary Languages:** Kotlin, Python, Java.
+- **Currently Learning:** Systems design, memory management and C development, I am gonna learn other things.
+- **Current Projects:** Currently don't have working projects.
+- **Platforms:** Android and Linux
 
 ---
 
