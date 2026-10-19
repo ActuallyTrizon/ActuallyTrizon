@@ -1,20 +1,24 @@
-# Hi, I'm Trizon 👋
+## Hi, I'm Trizon
 
-I'm a self taught 14 year old mobile programmer focused on systems programming, low level tooling and software development.
+I'm a self taught 14 year old mobile programmer focused on low level tooling and software development.
 
-I primarily build libraries and scripts, still learning about **C** and **Rust** but I definitely will learn **C++**.
+My goal is to become a software developer & engineer.
+
+I primarily build libraries and scripts, I am learning about **C** and **Rust** but I definitely will learn **C++** or **Java**.
 
 Currently I'm working on personal projects.
 
 - **Primary Languages:** C, Rust.
 - **Secondary Languages:** Kotlin, Python, Java.
-- **Currently Learning:** Systems design, memory management and C development, I am gonna learn other things.
-- **Current Projects:** Currently don't have working projects.
+- **Learning:** Systems design, memory management and C & Rust development, I am gonna learn other things.
+- **Active Projects:** Mius
 - **Platforms:** Android and Linux
+
+I'm still figuring it out so yeah.
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
