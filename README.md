@@ -12,6 +12,7 @@ Currently I'm working on personal projects.
 - **Secondary Languages:** Kotlin, Python, Java.
 - **Learning:** Systems design, memory management and C & Rust development, I am gonna learn other things.
 - **Active Projects:** Mius
+- **Side Projects:** Tock
 - **Platforms:** Android and Linux
 
 I'm still figuring it out so yeah.
