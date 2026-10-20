@@ -4,13 +4,13 @@ I'm a self taught 14 year old mobile programmer focused on low level tooling and
 
 My goal is to become a software developer & engineer.
 
-I primarily build libraries and scripts, I am learning about **C** and **Rust** but I definitely will learn **C++** or **Java**.
+I primarily build libraries and scripts, I am learning about **C** and **Rust** but I will learn **C++**.
 
 Currently I'm working on personal projects.
 
 - **Primary Languages:** C, Rust.
 - **Secondary Languages:** Kotlin, Python, Java.
-- **Learning:** Systems design, memory management and C & Rust development, I am gonna learn other things.
+- **Learning:** Systems design, memory management and C & Rust development, I am gonna learn other things as well.
 - **Active Projects:** Mius
 - **Side Projects:** Tock
 - **Platforms:** Android and Linux
