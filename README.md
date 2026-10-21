@@ -11,7 +11,7 @@ Currently I'm working on personal projects.
 - **Main Languages:** C, Rust.
 - **Side Languages:** Kotlin, Python, Java.
 - **Learning:** Systems design, memory management and C & Rust development, I am gonna learn other things as well.
-- **Primary Projects:** Mius
+- **Primary Projects:** Todoro
 - **Side Projects:** Tock
 - **Platforms:** Android & Linux
 
