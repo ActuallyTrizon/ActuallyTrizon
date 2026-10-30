@@ -15,6 +15,7 @@ Currently I'm working on personal projects.
 - **Platforms:** Android & Linux
 
 I'm still figuring it out so yeah.
+
 Currently I'm working on Zazi locally it doesn't have a repository.
 
 ---
