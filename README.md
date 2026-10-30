@@ -11,11 +11,11 @@ Currently I'm working on personal projects.
 - **Main Languages:** C, Rust.
 - **Side Languages:** Kotlin, Python, Java.
 - **Learning:** Systems design, memory management and C & Rust development, I am gonna learn other things as well.
-- **Primary Projects:** Todoro, Fippy
-- **Side Projects:** Tock
+- **Active Projects:** Zazi
 - **Platforms:** Android & Linux
 
 I'm still figuring it out so yeah.
+Currently I'm working on Zazi locally it doesn't have a repository.
 
 ---
 
